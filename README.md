@@ -1,4 +1,4 @@
-# Ladies Learning Code
+# Teens Learning Code
 
 ## HTML & CSS for Beginners: Learn to Build a Multi Page Website From Scratch
 
@@ -6,7 +6,7 @@ A full day introductory HTML & CSS workshop.
 
 This workshop covers HTML and CSS basics and is intended for complete beginners.
 
-Created by [Christina Truong](http://christinatruong.com) for [Ladies Learning Code](http://ladieslearningcode.com). Email questions & comments to <content@ladieslearningcode.com>.
+Created by [Christina Truong](http://christinatruong.com) for [Canada Learning Code](http://canadalearningcode.ca). Email questions & comments to <content@canadalearningcode.ca>.
 
 ### Contributing
 
